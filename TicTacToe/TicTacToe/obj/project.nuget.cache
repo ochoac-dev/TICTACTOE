@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOJjief2D7dv9XKsZhnRtifnnWa5W+RNuaHxf0Pa4E1+QqeY/NSImbxUgs0uzQckiu1HwGViFthYR6rJWmRm4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coral\\source\\repos\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coral\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
